@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         [FLY] Freelance System: Core
+// @name         SLY Assistant
 // @namespace    http://tampermonkey.net/
 // @version      0.5.3
 // @description  try to take over the world!
